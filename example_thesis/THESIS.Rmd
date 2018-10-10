@@ -8,7 +8,7 @@ csl: methods-in-ecology-and-evolution.csl
 urlcolor: black
 linkcolor: black
 fontsize: 12pt
-geometry: margin = 1.2in
+geometry: left=1.5in, top=1in, right=1in, bottom=1in
 header-includes:
 - \usepackage{placeins}
 - \usepackage{fancyhdr}
